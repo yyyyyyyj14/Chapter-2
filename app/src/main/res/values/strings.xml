@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chapter-2</string>
+    <string name="user_content">title:%1$s \ntag:%2$s \nline:%3$d</string>
+</resources>
